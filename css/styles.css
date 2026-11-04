@@ -32,6 +32,9 @@ blockquote span {
   font-weight: bold;
   margin-top: 1em;
 }
+blockquote:pre {
+  line-height: 1.0;
+}
 
 * {
   box-sizing: border-box;
