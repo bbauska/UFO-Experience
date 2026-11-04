@@ -1,17 +1,17 @@
 /* /css/styles.css of UFO-Experience for ufo-exp.bauska.org */
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic);
 blockquote {
-  font-size: 1.1em;  /* 1.4em; */
-  width: 90%;  /* 60%; */
-  margin: 10px auto;  /* 50px auto; */
+  font-size: 1.0em;  /* 1.4em; */
+  width: 95%;  /* 60%; */
+  margin: 5px auto;  /* 50px auto; */
   font-family: Open Sans;
   font-style: italic;
   color: #555555;  /* very dark gray */
-  padding: 0.8em 15px 0.8em 75px;  /* 1.2em 30px 1.2em 75px; */
+  padding: 0.8em 10px 0.8em 25px;  /* 1.2em 30px 1.2em 75px; */
   border-left: 2px solid #78c0a8;  /* 8px solid #78c0a8; */
   line-height: 1.2;  /* 1.6; */
   position: relative;
-  background: #ededed;  /* very light gray */
+  background: #f2f2f2;  /* very light gray, was: #ededed very light gray */
 }
 blockquote::before {
   font-family: Arial;
